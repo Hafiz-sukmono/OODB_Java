@@ -164,3 +164,5 @@ Rata-rata y : null
 Minimal x : null
 Maximum y : null
 Total x : null
+
+//Tidak Jauh berbeda dengan pertemuan 9, hanya berbeda di bagian paling bawah / baris ke 139 - 166
